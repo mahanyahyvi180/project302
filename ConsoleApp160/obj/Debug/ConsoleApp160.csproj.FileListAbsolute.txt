@@ -1,0 +1,7 @@
+G:\Users\ASUS\source\repos\ConsoleApp160\ConsoleApp160\bin\Debug\ConsoleApp160.exe.config
+G:\Users\ASUS\source\repos\ConsoleApp160\ConsoleApp160\bin\Debug\ConsoleApp160.exe
+G:\Users\ASUS\source\repos\ConsoleApp160\ConsoleApp160\bin\Debug\ConsoleApp160.pdb
+G:\Users\ASUS\source\repos\ConsoleApp160\ConsoleApp160\obj\Debug\ConsoleApp160.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\ConsoleApp160\ConsoleApp160\obj\Debug\ConsoleApp160.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\ConsoleApp160\ConsoleApp160\obj\Debug\ConsoleApp160.exe
+G:\Users\ASUS\source\repos\ConsoleApp160\ConsoleApp160\obj\Debug\ConsoleApp160.pdb
